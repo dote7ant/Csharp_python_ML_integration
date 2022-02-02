@@ -24,8 +24,8 @@ This repository contains the technical aspects of integrationg python ML models 
 The repository contains the following files/folders:
 
     *license: MIT
-    *google collab notebook 1: Week 13 of R_Analysis_Ad_click_Prediction.ipynb
-    *google collab notebook 2: Week 13_Customer_Characteristics.ipynb
+    *C# files
+    *Python files
     *README: This README.
 
 ## Packages
